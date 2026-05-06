@@ -1,1 +1,0 @@
-import{c as r}from"./app-v0g4H-1e.js";import{o as s}from"./vendor-Crvo9FBn.js";function u(t){const e=r();return s(()=>{t&&e.setPageTitle(t)}),{setTitle:o=>e.setPageTitle(o),resetTitle:()=>e.resetPageTitle()}}export{u};
